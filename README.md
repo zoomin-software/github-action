@@ -1,4 +1,4 @@
-# Github Action for Serverless
+# Github Action for Serverless (Node.js 12 & Python 3.8)
 
 This Action wraps the [Serverless Framework](https://serverless.com) to enable common Serverless commands.
 
